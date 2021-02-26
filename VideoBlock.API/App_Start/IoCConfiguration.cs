@@ -40,6 +40,10 @@ namespace VideoBlock.API.App_Start
                    .As<ISeguridadBusiness>()
                    .InstancePerRequest();
 
+            builder.RegisterType<PeliculaBusiness>()
+                   .As<IPeliculaBusiness>()
+                   .InstancePerRequest();
+
             //builder.RegisterGeneric(typeof(ClienteBusiness<>))
             //       .As(typeof(IClienteBusiness<>))
             //       .InstancePerRequest();

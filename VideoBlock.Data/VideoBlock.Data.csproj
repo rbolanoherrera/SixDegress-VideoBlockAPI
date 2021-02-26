@@ -50,9 +50,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Implementation\ClienteRepository.cs" />
+    <Compile Include="Implementation\PeliculaRepository.cs" />
     <Compile Include="Implementation\SeguridadRepository.cs" />
     <Compile Include="Implementation\TablasGeneralesRepository.cs" />
     <Compile Include="Interface\IClienteRepository.cs" />
+    <Compile Include="Interface\IPeliculaRepository.cs" />
     <Compile Include="Interface\ISeguridadRepository.cs" />
     <Compile Include="Interface\ITablasGeneralesRepository.cs" />
     <Compile Include="ObjetosBaseDatos.cs" />

@@ -16,6 +16,7 @@ namespace VideoBlock.Business
             builder.RegisterType<ClienteRepository>().As<IClienteRepository>();
             builder.RegisterType<TablasGeneralesRepository>().As<ITablasGeneralesRepository>();
             builder.RegisterType<SeguridadRepository>().As<ISeguridadRepository>();
+            builder.RegisterType<PeliculaRepository>().As<IPeliculaRepository>();
 
             // ... register more services for that layer
         }

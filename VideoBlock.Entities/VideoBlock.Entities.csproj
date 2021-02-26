@@ -41,11 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Actores.cs" />
     <Compile Include="Cliente.cs" />
+    <Compile Include="Common\GeneralFilter.cs" />
     <Compile Include="Common\GeneralTable.cs" />
     <Compile Include="Common\Result.cs" />
     <Compile Include="Constants.cs" />
     <Compile Include="Enumerators.cs" />
+    <Compile Include="Pelicula.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs" />
   </ItemGroup>

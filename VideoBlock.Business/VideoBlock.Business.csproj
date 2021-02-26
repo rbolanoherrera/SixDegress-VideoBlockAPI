@@ -80,9 +80,11 @@
   <ItemGroup>
     <Compile Include="BusinessLogicModules.cs" />
     <Compile Include="Implementation\ClienteBusiness.cs" />
+    <Compile Include="Implementation\PeliculaBusiness.cs" />
     <Compile Include="Implementation\SeguridadBusiness.cs" />
     <Compile Include="Implementation\TablasGeneralesBusiness.cs" />
     <Compile Include="Interface\IClienteBusiness.cs" />
+    <Compile Include="Interface\IPeliculaBusiness.cs" />
     <Compile Include="Interface\ISeguridadBusiness.cs" />
     <Compile Include="Interface\ITablasGeneralesBusiness.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
