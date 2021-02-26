@@ -12,7 +12,7 @@ En este respositorio se deja copia de la base de datos para su posterior restaur
 
 ## Video de expliación
 Se deja un video de expliación de como clonar los proyectos, de como actualizar el web.config del API para actualizar la BD y una demostración del funcionamiento de la App.
-El video se deja en la carpeta VideoDemo/videoDemo.mp4
+El video se deja en la carpeta `VideoDemo/videoDemo.mp4`
 
 
 ## Ayuda
